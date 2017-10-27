@@ -9,7 +9,7 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Lotto Login Game Launch](https://github.com/animatorx999/lottoAPI/wiki/3.-Lotto-Login-Game-Launch) <br>
 [Create New User](https://github.com/animatorx999/lottoAPI/wiki/4.-Create-New-User) <br>
 [Get Player Credit Balance](https://github.com/animatorx999/lottoAPI/wiki/5.-Get-Player-Credit-Balance) <br>
-[Lotto H5 Mobile Page](https://github.com/animatorx999/lottoAPI/wiki/6.-Lotto-H5---Mobile-Page) <br>
+[Transfer Credit Limit](https://github.com/animatorx999/lottoAPI/wiki/6.-Transfer-Credit-Limit) <br>
 [GGL Pirate Kings](https://github.com/animatorx999/lottoAPI/wiki/7.-GGL---Pirate-Kings) <br>
 [Lotto Landing Page Custom Draw Access](https://github.com/animatorx999/lottoAPI/wiki/8.-Lotto-Landing-Page---Custom-Draw-Access) <br>
 ### Version Update History:
