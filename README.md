@@ -7,7 +7,7 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Credential Registrations & Creations](https://github.com/animatorx999/lottoAPI/wiki/1.-Credential-Registrations--&-Creations) <br>
 [Accesing Api](https://github.com/animatorx999/lottoAPI/wiki/2.-Accessing-API) <br>
 [Lotto Login Game Launch](https://github.com/animatorx999/lottoAPI/wiki/3.-Lotto-Login-Game-Launch) <br>
-[Lotto Betslip Details Enquiry](https://github.com/animatorx999/lottoAPI/wiki/4.-Lotto-Betslip-Details-Enquiry) <br>
+[Create New User](https://github.com/animatorx999/lottoAPI/wiki/4.-Create-New-User) <br>
 [Lotto Android IOS](https://github.com/animatorx999/lottoAPI/wiki/5.-Lotto-Android---IOS) <br>
 [Lotto H5 Mobile Page](https://github.com/animatorx999/lottoAPI/wiki/6.-Lotto-H5---Mobile-Page) <br>
 [GGL Pirate Kings](https://github.com/animatorx999/lottoAPI/wiki/7.-GGL---Pirate-Kings) <br>
