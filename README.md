@@ -6,12 +6,13 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 
 [Credential Registrations & Creations](https://github.com/animatorx999/lottoAPI/wiki/1.-Credential-Registrations--&-Creations) <br>
 [Method And Sign Key](https://github.com/animatorx999/lottoAPI/wiki/2.-Method-And-Sign-Key) <br>
-[Lotto Login Game Launch](https://github.com/animatorx999/lottoAPI/wiki/3.-Lotto-Login-Game-Launch) <br>
-[Create New User](https://github.com/animatorx999/lottoAPI/wiki/4.-Create-New-User) <br>
-[Get Player Credit Balance](https://github.com/animatorx999/lottoAPI/wiki/5.-Get-Player-Credit-Balance) <br>
-[Transfer Credit Limit](https://github.com/animatorx999/lottoAPI/wiki/6.-Transfer-Credit-Limit) <br>
-[Wagers And Bonus Synchronize](https://github.com/animatorx999/lottoAPI/wiki/7.-Wagers-And-Bonus-Synchronize) <br>
-[Change Password](https://github.com/animatorx999/lottoAPI/wiki/8.-Change-Password) <br>
+[Create New Player](https://github.com/animatorx999/lottoAPI/wiki/3.-Create-New-Player) <br>
+[Get Balance](https://github.com/animatorx999/lottoAPI/wiki/4.-Get-Balance) <br>
+[Transfer Credit Limit](https://github.com/animatorx999/lottoAPI/wiki/5.-Transfer-Credit-Limit) <br>
+[Get Game Token](https://github.com/animatorx999/lottoAPI/wiki/6.-Get-Game-Token) <br>
+[Main Game Interface](https://github.com/animatorx999/lottoAPI/wiki/7.-Main-Game-Interface) <br>
+[Get Wagers And Bonus](https://github.com/animatorx999/lottoAPI/wiki/8.-Get-Wagers-And-Bonus) <br>
+[Change Password](https://github.com/animatorx999/lottoAPI/wiki/9.-Change-Password) <br>
 ### Version Update History:
 <table>
 <tr><th>Version</th><th>Date</th><th>Changes</th></tr>
