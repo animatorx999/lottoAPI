@@ -5,7 +5,7 @@ The Lottech lotto API is library to enable third party user to easily integrate 
 The following Page demonstrate how you would accomplish common tasks with our Lottech Lotto API.
 
 [Credential Registrations & Creations](https://github.com/animatorx999/lottoAPI/wiki/1.-Credential-Registrations--&-Creations) <br>
-[Accesing Api](https://github.com/animatorx999/lottoAPI/wiki/2.-Accessing-API) <br>
+[Method And Sign Key](https://github.com/animatorx999/lottoAPI/wiki/2.-Method-And-Sign-Key) <br>
 [Lotto Login Game Launch](https://github.com/animatorx999/lottoAPI/wiki/3.-Lotto-Login-Game-Launch) <br>
 [Create New User](https://github.com/animatorx999/lottoAPI/wiki/4.-Create-New-User) <br>
 [Get Player Credit Balance](https://github.com/animatorx999/lottoAPI/wiki/5.-Get-Player-Credit-Balance) <br>
