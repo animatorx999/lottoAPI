@@ -11,7 +11,7 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Get Player Credit Balance](https://github.com/animatorx999/lottoAPI/wiki/5.-Get-Player-Credit-Balance) <br>
 [Transfer Credit Limit](https://github.com/animatorx999/lottoAPI/wiki/6.-Transfer-Credit-Limit) <br>
 [Wagers And Bonus Synchronize](https://github.com/animatorx999/lottoAPI/wiki/7.-Wagers-And-Bonus-Synchronize) <br>
-[Lotto Landing Page Custom Draw Access](https://github.com/animatorx999/lottoAPI/wiki/8.-Lotto-Landing-Page---Custom-Draw-Access) <br>
+[Change Password](https://github.com/animatorx999/lottoAPI/wiki/8.-Change-Password) <br>
 ### Version Update History:
 <table>
 <tr><th>Version</th><th>Date</th><th>Changes</th></tr>
