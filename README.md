@@ -10,7 +10,7 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Get Balance](https://github.com/animatorx999/lottoAPI/wiki/4.-Get-Balance) <br>
 [Transfer Credit Limit](https://github.com/animatorx999/lottoAPI/wiki/5.-Transfer-Credit-Limit) <br>
 [Get Game Token](https://github.com/animatorx999/lottoAPI/wiki/6.-Get-Game-Token) <br>
-[Main Game Interface](https://github.com/animatorx999/lottoAPI/wiki/7.-Main-Game-Interface) <br>
+[Launch Game](https://github.com/animatorx999/lottoAPI/wiki/7.-Launch-Game) <br>
 [Get Wagers And Bonus](https://github.com/animatorx999/lottoAPI/wiki/8.-Get-Wagers-And-Bonus) <br>
 [Change Password](https://github.com/animatorx999/lottoAPI/wiki/9.-Change-Password) <br>
 ### Version Update History:
