@@ -13,7 +13,7 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Launch Game](https://github.com/animatorx999/lottoAPI/wiki/7.-Launch-Game) <br>
 [Get Wagers And Bonus](https://github.com/animatorx999/lottoAPI/wiki/8.-Get-Wagers-And-Bonus) <br>
 [Change Password](https://github.com/animatorx999/lottoAPI/wiki/9.-Change-Password) <br>
-[Get Transfer Record](https://github.com/animatorx999/lottoAPI/wiki/10.-Get-Transfer-Records) <br>
+[Get Transfer Records](https://github.com/animatorx999/lottoAPI/wiki/10.-Get-Transfer-Records) <br>
 ### Version Update History:
 <table>
 <tr><th>Version</th><th>Date</th><th>Changes</th></tr>
