@@ -14,6 +14,10 @@ The following Page demonstrate how you would accomplish common tasks with our Lo
 [Get Wagers And Bonus](https://github.com/animatorx999/lottoAPI/wiki/8.-Get-Wagers-And-Bonus) <br>
 [Change Password](https://github.com/animatorx999/lottoAPI/wiki/9.-Change-Password) <br>
 [Get Transfer Records](https://github.com/animatorx999/lottoAPI/wiki/10.-Get-Transfer-Records) <br>
+[Get Game Result](https://github.com/animatorx999/lottoAPI/wiki/11.-Get-Game-Result) <br>
+[Get Game Remaining Time](https://github.com/animatorx999/lottoAPI/wiki/12.-Get-Game-Remaining-Time) <br>
+[Get Jackpot Amount](https://github.com/animatorx999/lottoAPI/wiki/13.-Get-Jackpot-Amount) <br>
+[Add GGL Ticket](https://github.com/animatorx999/lottoAPI/wiki/14.-ADD-GGL-Ticket) <br>
 ### Version Update History:
 <table>
 <tr><th>Version</th><th>Date</th><th>Changes</th></tr>
